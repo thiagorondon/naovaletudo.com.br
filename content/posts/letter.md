@@ -1,7 +1,7 @@
 ---
 title: "Tecnologia e ética nas eleições "
 date: 2017-11-27T17:36:52-02:00
-draft: true
+draft: false
 ---
 Brasileiras e brasileiros,  
 

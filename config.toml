@@ -2,3 +2,5 @@ baseURL = "http://www.naovaletudo.com.br/"
 languageCode = "pt-br"
 title = "#NaoValeTudo"
 theme = "hugo-kiera"
+
+

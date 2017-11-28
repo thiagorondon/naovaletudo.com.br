@@ -1,6 +1,6 @@
 baseURL:         "http://www.naovaletudo.com.br/"
 languageCode:    "pt-br"
-title:           "#NãoValeTudo: "
+title:           "#NãoValeTudo"
 theme:           "hugo-kiera"
 
 

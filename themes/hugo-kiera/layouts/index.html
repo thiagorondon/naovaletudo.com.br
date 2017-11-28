@@ -1,14 +1,10 @@
 {{ define "main" }}
 
 <section id="home">
-        <ul>
-          {{ range $index, $page := first 10 (where .Site.RegularPages "Section" "in" .Site.Params.mainSections) }}
-          <li {{if eq $index 0}}class="first"{{end}}>
-            <h1><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h1> 
-            {{ .Content }}
-          </li>
-          {{ end }}
-        </ul>
-      </section>
+  {{ range $index, $page := first 10 (where .Site.RegularPages "Section" "in" .Site.Params.mainSections) }}
+    <h1><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h1> 
+    {{ .Content }}
+  {{ end }}
+</section>
 
 {{ end }}

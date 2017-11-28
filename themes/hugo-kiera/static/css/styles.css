@@ -2,7 +2,7 @@ body {
   margin: 0;
   padding: 0;
   overflow-x: hidden;
-  font-family: "Roboto Slab", serif;
+  font-family: Lato,Helvetica Neue,Helvetica,Arial,sans-serif;
   color: #333333;
 }
 
@@ -13,8 +13,9 @@ h4,
 h5,
 h6,
 time {
-  font-family: "Ruda", sans-serif;
+  font-family: Lato,Helvetica Neue,Helvetica,Arial,sans-serif;
 }
+
 
 #container {
   margin: 0;
@@ -26,7 +27,7 @@ time {
 }
 
 #container > * {
-  width: 700px;
+  width: 920px;
   margin: 0 auto;
 }
 
@@ -42,11 +43,16 @@ time {
 }
 
 #container header h1 {
-  font-size: 2.4rem;
+  font-size: 2.8rem;
 }
 
 #container header h1 a {
   color: #000000;
+}
+
+#container header h2 {
+  font-weight: normal;
+  margin-top:  -12px;
 }
 
 #container header ul {
@@ -73,7 +79,6 @@ time {
 #container nav {
   border-bottom: solid 3px #cecece;
   padding-bottom: 0.5em;
-  font-family: "Ruda", sans-serif;
 }
 
 #container nav ul {
@@ -86,6 +91,7 @@ time {
 
 #container nav ul li {
   margin-left: 1em;
+
 }
 
 #container nav ul li a.active {
@@ -94,8 +100,9 @@ time {
 
 #container main {
   flex: 1 0 0;
-  line-height: 1.5;
-  font-size: 1.2rem;
+  line-height: 1.8;
+  font-size: 1.35rem;
+  letter-spacing: -.004em;
 }
 
 #container main section#home ul {
@@ -208,6 +215,7 @@ time {
 .meta-aside ul li, #container main section#home ul li aside ul li, #container main article aside ul li {
   margin: 0;
   padding: 0;
+  text-align: left;
 }
 
 a {
@@ -367,8 +375,25 @@ ul.pagination {
   margin: 1em 0 0;
   padding: 0.5em 0;
   list-style: none;
+
 }
 
 ul.pagination li {
   padding: 0 1em;
 }
+
+#container hr {
+  margin-top: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+
+#container main h2 {
+  text-align: center;
+}
+
+#container li {
+  text-align: center;
+}
+
+

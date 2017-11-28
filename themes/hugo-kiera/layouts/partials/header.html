@@ -18,9 +18,8 @@
 <body>
     <div id="container">
         <header>
-            <h1>
-                <a href="{{ relURL "/" }}">{{ .Site.Title | markdownify }}</a>
-            </h1>
+            <h1><a href="{{ relURL "/" }}">{{ .Site.Title | markdownify }}</a></h1>
+            <h2>{{ .Site.Params.subtitle }}</h2>
 
 <!-- Social Share Button HTML -->
 

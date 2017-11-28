@@ -36,6 +36,9 @@ Nós, que assinamos esta carta, acreditamos que a tecnologia pode melhorar a dem
 Nossa expectativa é que esse esforço coletivo sirva para trazer a tona esse debate e influenciar a sociedade brasileira, para garantir que as eleições ocorram de forma justa, transparente e democrática.
 
 
+---
+
+
 ## SIGNATÁRIOS
 
 - Instituto Update

@@ -25,7 +25,7 @@ Nós precisamos conhecer como estamos usando a tecnologia na política e nos res
 
 **O uso de robôs, no entanto, pode ser benéfico para a construção de debates políticos, mas a utilização dessas ferramentas deve ser sempre ostensivamente informada,** pois robôs que se passam por humanos podem ser um grande empecilho para um debate transparente, aberto, coletivo, plural e construtivo. 
 
-**Nós defendemos a liberdade de expressão e crítica das cidadãs e cidadãos no período eleitoral.** Nem sempre as campanhas e candidatos serão os únicos a participar do debate político, pois a internet tornou possível o engajamento em massa das cidadãs e cidadãos na discussão política. Essa expressão areja a discussão política, que deve ser objeto de escrutínio público, o que nem sempre será realizado da forma mais polida. O uso de perfis que não representem uma pessoa real, que podem por exemplo realizar críticas ácida, de humor ou de diferentes linguagens tem um valor democrático relevante, mas é importante que seja reconhecido seu responsável
+**Nós defendemos a liberdade de expressão e crítica das cidadãs e cidadãos no período eleitoral.** Nem sempre as campanhas e candidatos serão os únicos a participar do debate político, pois a internet tornou possível o engajamento em massa das cidadãs e cidadãos na discussão política. Essa expressão areja a discussão política, que deve ser objeto de escrutínio público, o que nem sempre será realizado da forma mais polida. O uso de perfis que não representem uma pessoa real, que podem por exemplo realizar críticas ácida, de humor ou de diferentes linguagens tem um valor democrático relevante, mas é importante que seja reconhecido seu responsável.
 
 **Nós acreditamos que dados são valiosos e importantes nas campanhas para potencializar o diálogo entre candidatos e cidadãos, mas que seu uso deve ser realizado com responsabilidade.** Somos contra o roubo ou compra de dados de terceiros sem seu consentimento. Precisamos ter certeza de que a coleta de dados pessoais é o resultado da mobilização da campanha, sendo tais informações cedidas de forma consciente e informada. Se informação é poder, respeitar e proteger os dados pessoais dos cidadãos é proteger sua autonomia e capacidade de discutir, se informar e escolher **sabendo o que seu interlocutor conhece sobre ele.** Nós nos comprometemos a ser radicalmente transparentes com as fontes dos dados de cidadãos que serão utilizados para a campanha.
 
@@ -38,7 +38,6 @@ Nossa expectativa é que esse esforço coletivo sirva para trazer a tona esse de
 
 ---
 
-
 ## SIGNATÁRIOS
 
 - Instituto Update
@@ -47,3 +46,4 @@ Nossa expectativa é que esse esforço coletivo sirva para trazer a tona esse de
 - InternetLab
 - Movimento Transparência Partidária
 - Open Knowledge Brasil
+

@@ -1,0 +1,9 @@
+baseURL:         "http://www.naovaletudo.com.br/"
+languageCode:    "pt-br"
+title:           "#NãoValeTudo: "
+theme:           "hugo-kiera"
+
+
+params:
+  Subtitle:      "Essa carta é um esforço coletivo para discutir o que vale e o que não vale no uso de tecnologia para fins eleitorais."
+

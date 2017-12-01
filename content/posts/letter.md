@@ -46,4 +46,8 @@ Nossa expectativa é que esse esforço coletivo sirva para trazer a tona esse de
 - InternetLab
 - Movimento Transparência Partidária
 - Open Knowledge Brasil
-
+- Agência Lupa
+- Instituto Alana
+- Instituto Ethos
+- Fundação Avina
+- RAPS

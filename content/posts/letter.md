@@ -51,3 +51,5 @@ Nossa expectativa é que esse esforço coletivo sirva para trazer a tona esse de
 - Instituto Ethos
 - Fundação Avina
 - RAPS
+- CIVI-CO
+

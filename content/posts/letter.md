@@ -52,4 +52,7 @@ Nossa expectativa é que esse esforço coletivo sirva para trazer a tona esse de
 - Fundação Avina
 - RAPS
 - CIVI-CO
-
+- Aos Fatos
+- Bancada Ativista
+- Labhacker
+- Labic

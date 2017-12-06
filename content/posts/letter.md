@@ -57,3 +57,4 @@ Nossa expectativa é que esse esforço coletivo sirva para trazer a tona esse de
 - Labhacker
 - Labic
 - Olabi
+- Instituto Cidade Democrática

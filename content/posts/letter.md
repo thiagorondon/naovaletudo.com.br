@@ -63,3 +63,9 @@ Nossa expectativa é que esse esforço coletivo sirva para trazer a tona esse de
 - NÓS
 - Data Labe
 - Acredito
+- Internet sem fronteiras
+- Fundação Cidadania Inteligente
+- Quero Previas
+- Agora!
+
+

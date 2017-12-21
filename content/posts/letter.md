@@ -70,3 +70,4 @@ Nossa expectativa é que esse esforço coletivo sirva para trazer a tona esse de
 - Um a mais
 - IDEC
 - Muitas
+- Politize!

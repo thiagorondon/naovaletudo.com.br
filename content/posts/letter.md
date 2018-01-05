@@ -72,3 +72,4 @@ Nossa expectativa é que esse esforço coletivo sirva para trazer a tona esse de
 - Muitas
 - Politize!
 - Instituto Não Aceito Corrupção
+- Tapera Taperá

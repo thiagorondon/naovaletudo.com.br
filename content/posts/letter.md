@@ -38,6 +38,14 @@ Nossa expectativa é que esse esforço coletivo sirva para trazer a tona esse de
 
 ---
 
+O movimento #naovaletudo é uma iniciativa coletiva apartidária das seguintes organizações: AppCivico, Internet Lab, Instituto Tecnologia & Equidade, Instituto Update, Transparência Partidária e Open Knowledge Brasil. Seu objetivo é fomentar a ampla adesão a princípios éticos por parte de todos os atores que estarão envolvidos nas eleições de 2018 no Brasil.  
+
+A adesão de quaisquer organizações, empresas e movimentos signatários a Carta não configura qualquer tipo de apoio, recomendação ou certificação recíproca entre elas e  seus proponentes. 
+
+Incentivamos que qualquer organização interessada monitore o cumprimento da Carta por seus signatários, ressaltando que os resultados desse monitoramento não altera os princípios defendidos na Carta!
+
+---
+
 ## SIGNATÁRIOS
 
 - Instituto Update
@@ -74,3 +82,4 @@ Nossa expectativa é que esse esforço coletivo sirva para trazer a tona esse de
 - Instituto Não Aceito Corrupção
 - Tapera Taperá
 - MariaLab
+- Stilingue Inteligencia Artificial

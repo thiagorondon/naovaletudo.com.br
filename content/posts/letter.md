@@ -15,15 +15,15 @@ As tecnologias, porém, são ferramentas que podem ser utilizadas de diferentes 
 
 **Estes exemplos recentes nos preocupam,** pois indicam que atividades como a coleta e o uso indevido de dados pessoais para direcionamento de propaganda, o uso de robôs e perfis falsos para simular movimentos e posicionamentos políticos e métodos de disseminação de informações falsas podem ter efeitos significativos nos direitos de acesso à informação, liberdade de expressão e associação e de privacidade de todas e todos nós. A proteção de tais direitos nos parece uma premissa para que a tecnologia seja uma alavanca para a discussão política, e não uma ameaça à autonomia das cidadãs e cidadãos debaterem sobre seu futuro.
 
-**Nós precisamos conhecer como estamos usando a tecnologia na política e nos responsabilizar coletivamente pelas consequências destes usos.** As novas tecnologias devem representar uma oportunidade para um debate mais amplo, consciente e um campo fértil para inovação política. Precisamos informar, mobilizar e sensibilizar para que estas novas tecnologias sejam utilizadas a favor da construção de uma democracia mais aberta, participativa e justa. 
+**Nós precisamos conhecer como estamos usando a tecnologia na política e nos responsabilizar coletivamente pelas consequências destes usos.** As novas tecnologias devem representar uma oportunidade para um debate mais amplo, consciente e um campo fértil para inovação política. Precisamos informar, mobilizar e sensibilizar para que estas novas tecnologias sejam utilizadas a favor da construção de uma democracia mais aberta, participativa e justa.
 
 **Nós não toleramos a produção e disseminação de notícias falsas.** Quem as cria, promove a mentira e manipula os cidadãos em torno de interesses particulares e desonestos. Vinda por veículos tradicionais ou inovadores, a informação de qualidade deve ser um direito garantido a todas e todos os participantes de uma discussão política, seja qual for o lado. Nós acreditamos em informações cujas fontes estejam claras, cujos autores e veículos estejam evidentes. Desta forma, saudamos e encorajamos todas as iniciativas de verificação de fatos, dados e informações e de fortalecimento do jornalismo ético e transparente com suas posições políticas conduzidas hoje no Brasil.
 
-**Nós acreditamos que informações detalhadas sobre o uso de tecnologias para fins eleitorais devem ser de conhecimento público,** tais como softwares, aplicativos, infraestrutura tecnológica, serviços de análise de dados, profissionais e empresas envolvidas na construção e consultoria da nossa campanha. Além da prestação de contas financeira com doações e fornecedores, é necessário também uma transparência detalhada das tecnologias utilizadas em uma campanha. 
+**Nós acreditamos que informações detalhadas sobre o uso de tecnologias para fins eleitorais devem ser de conhecimento público,** tais como softwares, aplicativos, infraestrutura tecnológica, serviços de análise de dados, profissionais e empresas envolvidas na construção e consultoria da nossa campanha. Além da prestação de contas financeira com doações e fornecedores, é necessário também uma transparência detalhada das tecnologias utilizadas em uma campanha.
 
 **Nós repudiamos a manipulação da percepção do público sobre a discussão política realizada a partir da criação e do uso de perfis falsos.** Ao fazer crer que contas de redes sociais são controladas por usuários humanos reais e simular movimentações políticas sem lastro real, estas técnicas desviam o foco do debate, muitas vezes servem para inflar ou atacar a imagem de pessoas de forma artificial e desonesta.
 
-**O uso de robôs, no entanto, pode ser benéfico para a construção de debates políticos, mas a utilização dessas ferramentas deve ser sempre ostensivamente informada,** pois robôs que se passam por humanos podem ser um grande empecilho para um debate transparente, aberto, coletivo, plural e construtivo. 
+**O uso de robôs, no entanto, pode ser benéfico para a construção de debates políticos, mas a utilização dessas ferramentas deve ser sempre ostensivamente informada,** pois robôs que se passam por humanos podem ser um grande empecilho para um debate transparente, aberto, coletivo, plural e construtivo.
 
 **Nós defendemos a liberdade de expressão e crítica das cidadãs e cidadãos no período eleitoral.** Nem sempre as campanhas e candidatos serão os únicos a participar do debate político, pois a internet tornou possível o engajamento em massa das cidadãs e cidadãos na discussão política. Essa expressão areja a discussão política, que deve ser objeto de escrutínio público, o que nem sempre será realizado da forma mais polida. O uso de perfis que não representem uma pessoa real, que podem por exemplo realizar críticas ácida, de humor ou de diferentes linguagens tem um valor democrático relevante, mas é importante que seja reconhecido seu responsável.
 
@@ -38,9 +38,9 @@ Nossa expectativa é que esse esforço coletivo sirva para trazer a tona esse de
 
 ---
 
-O movimento #naovaletudo é uma iniciativa coletiva apartidária das seguintes organizações: AppCivico, Idec, Internet Lab, Instituto Tecnologia & Equidade, Instituto Update, Transparência Partidária e Open Knowledge Brasil. Seu objetivo é fomentar a ampla adesão a princípios éticos por parte de todos os atores que estarão envolvidos nas eleições de 2018 no Brasil.  
+O movimento #naovaletudo é uma iniciativa coletiva apartidária das seguintes organizações: AppCivico, Idec, Internet Lab, Instituto Tecnologia & Equidade, Instituto Update, Transparência Partidária e Open Knowledge Brasil. Seu objetivo é fomentar a ampla adesão a princípios éticos por parte de todos os atores que estarão envolvidos nas eleições de 2018 no Brasil.
 
-A adesão de quaisquer organizações, empresas e movimentos signatários a Carta não configura qualquer tipo de apoio, recomendação ou certificação recíproca entre elas e  seus proponentes. 
+A adesão de quaisquer organizações, empresas e movimentos signatários a Carta não configura qualquer tipo de apoio, recomendação ou certificação recíproca entre elas e  seus proponentes.
 
 Incentivamos que qualquer organização interessada monitore o cumprimento da Carta por seus signatários, ressaltando que os resultados desse monitoramento não altera os princípios defendidos na Carta!
 
@@ -50,7 +50,7 @@ Incentivamos que qualquer organização interessada monitore o cumprimento da Ca
 
 - Instituto Update
 - AppCivico
-- IT&E (Instituto Tecnologia e Equidade) 
+- IT&E (Instituto Tecnologia e Equidade)
 - InternetLab
 - Movimento Transparência Partidária
 - Open Knowledge Brasil
@@ -83,3 +83,4 @@ Incentivamos que qualquer organização interessada monitore o cumprimento da Ca
 - Tapera Taperá
 - MariaLab
 - Stilingue Inteligencia Artificial
+- Catraca Livre

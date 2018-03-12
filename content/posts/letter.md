@@ -84,3 +84,4 @@ Incentivamos que qualquer organização interessada monitore o cumprimento da Ca
 - MariaLab
 - Stilingue Inteligencia Artificial
 - Catraca Livre
+- Abracom

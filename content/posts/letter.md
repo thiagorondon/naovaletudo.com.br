@@ -85,3 +85,8 @@ Incentivamos que qualquer organização interessada monitore o cumprimento da Ca
 - Stilingue Inteligencia Artificial
 - Catraca Livre
 - Abracom
+
+
+---
+quer assinar? entre em contato pelo email: contato@naovaletudo.com.br
+

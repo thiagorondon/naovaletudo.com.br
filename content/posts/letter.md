@@ -46,6 +46,10 @@ Incentivamos que qualquer organização interessada monitore o cumprimento da Ca
 
 ---
 
+quer assinar? entre em contato pelo email: contato@tecnologiaequidade.org.br
+
+---
+
 ## SIGNATÁRIOS
 
 - Instituto Update
@@ -87,6 +91,4 @@ Incentivamos que qualquer organização interessada monitore o cumprimento da Ca
 - Abracom
 
 
----
-quer assinar? entre em contato pelo email: contato@tecnologiaequidade.org.br
 

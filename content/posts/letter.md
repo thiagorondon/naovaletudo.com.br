@@ -46,6 +46,18 @@ Incentivamos que qualquer organização interessada monitore o cumprimento da Ca
 
 ---
 
+CANDIDATAS E CANDIDATOS
+
+Se você será candidata ou candidato nas eleições 2018 e deseja se comprometer com a carta #NãoValeTudo, siga os seguintes passos.
+
+Publique no seu Twitter e Facebook (também pode ser no Instagram) a mensagem abaixo com a hashtag, o link para a carta e marque pelo menos um outro candidato que poderia se comprometer com o uso ético de tecnologia nas eleições de 2018.
+
+Sugestão de postagem:
+"Tecnologia e Ética são fundamentais para a democracia. Acabei de assumir um compromisso para as eleições de 2018: #NaoValeTudo para vencer a eleição 
+https://naovaletudo.com.br/"
+
+---
+
 quer assinar? entre em contato pelo email: contato@tecnologiaequidade.org.br
 
 ---

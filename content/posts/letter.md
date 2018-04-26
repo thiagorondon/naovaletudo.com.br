@@ -46,7 +46,7 @@ Incentivamos que qualquer organização interessada monitore o cumprimento da Ca
 
 ---
 
-CANDIDATAS E CANDIDATOS
+## CANDIDATAS E CANDIDATOS
 
 Se você será candidata ou candidato nas eleições 2018 e deseja se comprometer com a carta #NãoValeTudo, siga os seguintes passos.
 

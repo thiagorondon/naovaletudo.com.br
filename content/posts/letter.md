@@ -101,6 +101,6 @@ quer assinar? entre em contato pelo email: contato@tecnologiaequidade.org.br
 - Stilingue Inteligencia Artificial
 - Catraca Livre
 - Abracom
-
+- Tribunal Superior Eleitoral (TSE)
 
 

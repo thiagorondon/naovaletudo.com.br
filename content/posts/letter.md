@@ -103,4 +103,4 @@ quer assinar? entre em contato pelo email: contato@tecnologiaequidade.org.br
 - Abracom
 - Global Sustentável
 - Inteligência Humana
-
+- Ranking dos Políticos

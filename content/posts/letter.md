@@ -105,4 +105,4 @@ quer assinar? entre em contato pelo email: contato@tecnologiaequidade.org.br
 - Inteligência Humana
 - Ranking dos Políticos
 - Instituto Palavra Aberta 
-
+- MCCE (Movimento Contra Corrupção Eleitoral)

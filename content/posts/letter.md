@@ -106,3 +106,4 @@ quer assinar? entre em contato pelo email: contato@tecnologiaequidade.org.br
 - Ranking dos Políticos
 - Instituto Palavra Aberta 
 - MCCE (Movimento Contra Corrupção Eleitoral)
+- Dado Capital
